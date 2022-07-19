@@ -10,3 +10,5 @@ modules. Production module includes Item, Material, Component, Bill of material 
 Item costing. Sales includes Customer, Order place, Supplier and Check stock availability. As
 well as Inventory issues, Inventory received and Material reorder are included Inventory and
 Forecasting module contents Moving average and Weight moving average.
+
+erp.PNG
