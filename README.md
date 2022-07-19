@@ -11,5 +11,6 @@ Item costing. Sales includes Customer, Order place, Supplier and Check stock ava
 well as Inventory issues, Inventory received and Material reorder are included Inventory and
 Forecasting module contents Moving average and Weight moving average.
 
+# ER Diagram for All system
 ![alt text](https://github.com/piyalsmg/ERP-for-Car-service-company/blob/main/erp.PNG)
 
