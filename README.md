@@ -13,4 +13,4 @@ Forecasting module contents Moving average and Weight moving average.
 
 # ER Diagram for All system
 ![alt text](https://github.com/piyalsmg/ERP-for-Car-service-company/blob/main/erp.PNG)
-
+![alt text](https://github.com/piyalsmg/ERP-for-Car-service-company/blob/main/erp.PNG)
